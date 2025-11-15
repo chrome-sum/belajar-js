@@ -10,4 +10,4 @@ cara mengakses properti ada 2 cara
 2. bracket notation ([])
 
 ### dot notation
-````console.log(variable.key)```
+```console.log(variable.key)```
